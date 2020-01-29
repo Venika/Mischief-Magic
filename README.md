@@ -13,14 +13,13 @@ Our target audience will be teenagers and young adults. Since the story of the g
 # •	References
 Even though the idea of the game is original, we do draw inspirations from existing game works and stories. As mentioned above, the main plot of the game is loosely based on the anime ‘Avatar: The Last Airbender’. The basic layout of the game is inspired from the game ‘Clash of Clans’, though ours is a lot less detailed (No budget or time). The wizard attacks have been inspired from the Prince of Persia game (Shooting arrows in all the direction and then recharging before using it again). Simple inspirations have been drawn upon from various games we played as a kid
 
-# •	Game Stills and Video
+# •	Game Stills
 Here are some stills from the game:
-<img src='GameStill1.PNG' alt='Game Image1' />
-<img src='GameStill2.PNG' alt='Game Image2' />
-<img src='GameStill3.PNG' alt='Game Image3' />
+<img src='GameStill1.png' alt='Game Image1' />
+<img src='GameStill2.png' alt='Game Image2' />
+<img src='GameStill3.png' alt='Game Image3' />
 
-The video of the entire game from start to finish:
-<img src='Game Video.mp4' title='Game Video' width='' alt='Game Video' />
+
 
 # •	Notes
 It was hard to create the storm of attack without moving the Wizard. We used trignometric formulas to figure out how to do that. 
