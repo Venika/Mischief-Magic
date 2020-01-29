@@ -1,4 +1,5 @@
 # Mischief-Magic
+<img src='Start.PNG' alt='Game Image' />
 
 # •	Story
 Long ago, the four nations lived together in harmony. Then, everything changed when all the nations attacked the Fire Kingdom. You are a powerful wizard of the Fire nation who is in search of his magic fire taken away by the kingdoms. Without that fire, you are weak and powerless. The fire is hidden in one of the 3 kingdoms. You must travel to each one of them and search for it or else you will lose all your powers. You will have to fight enemies that are sent to stop you from your mission. Since you are weakened by the loss of fire, any time enemy touches you, you die. Since you have a little bit of power left, you can use two types of attacks- fire bolt and fire sphere. Since fire sphere takes a lot of your energy, you are unable to use it again and again. You need to rest a bit for it to recharge. Your aim is to find the portal to the next world and search for your ‘Fire’. The fate of Fire Nation rests on your shoulders. Good Luck!
@@ -12,9 +13,14 @@ Our target audience will be teenagers and young adults. Since the story of the g
 # •	References
 Even though the idea of the game is original, we do draw inspirations from existing game works and stories. As mentioned above, the main plot of the game is loosely based on the anime ‘Avatar: The Last Airbender’. The basic layout of the game is inspired from the game ‘Clash of Clans’, though ours is a lot less detailed (No budget or time). The wizard attacks have been inspired from the Prince of Persia game (Shooting arrows in all the direction and then recharging before using it again). Simple inspirations have been drawn upon from various games we played as a kid
 
-# •	Game Video
-Here is the video of the entire game from start to finish:
-<img src='' title='Game Video' width='' alt='Game Video' />
+# •	Game Stills and Video
+Here are some stills from the game:
+<img src='GameStill1.PNG' alt='Game Image1' />
+<img src='GameStill2.PNG' alt='Game Image2' />
+<img src='GameStill3.PNG' alt='Game Image3' />
+
+The video of the entire game from start to finish:
+<img src='Game Video.mp4' title='Game Video' width='' alt='Game Video' />
 
 # •	Notes
 It was hard to create the storm of attack without moving the Wizard. We used trignometric formulas to figure out how to do that. 
