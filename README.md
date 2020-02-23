@@ -14,8 +14,8 @@ Our target audience will be teenagers and young adults. Since the story of the g
 Even though the idea of the game is original, we do draw inspirations from existing game works and stories. As mentioned above, the main plot of the game is loosely based on the anime ‘Avatar: The Last Airbender’. The basic layout of the game is inspired from the game ‘Clash of Clans’, though ours is a lot less detailed (No budget or time). The wizard attacks have been inspired from the Prince of Persia game (Shooting arrows in all the direction and then recharging before using it again). Simple inspirations have been drawn upon from various games we played as a kid
 
 
-# •	Game graphics
-<img src=https://i.imgur.com/KNp9q5O.gif' title='Game gif' width='' alt='Game gif' />
+# •	Game Gif
+<img src='https://i.imgur.com/KNp9q5O.gif' title='Game Gif' width='' alt='Game Gif' />
 
 
 
