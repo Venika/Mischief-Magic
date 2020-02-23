@@ -15,9 +15,9 @@ Even though the idea of the game is original, we do draw inspirations from exist
 
 
 # •	Game graphics
-<img src='https://i.imgur.com/KNp9q5O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/BJTMgH1.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 
 # •	Notes
