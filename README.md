@@ -15,7 +15,7 @@ Even though the idea of the game is original, we do draw inspirations from exist
 
 
 # •	Game graphics
-<img src='https://imgur.com/BJTMgH1.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gwKxXcU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
